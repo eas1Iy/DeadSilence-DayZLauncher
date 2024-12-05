@@ -1,5 +1,5 @@
 ### DayZ Standalone Game Launcher.
-**Лаунчер для подключения к игровым серверам определенного проекта.**
+**Лаунчер для подключения к игровым серверам проекта: Dead Silence.**
 
 ```
 Репозиторий создан для загрузки лаунчера.
@@ -33,7 +33,7 @@
 ![image](https://github.com/user-attachments/assets/3400a059-0b4c-4639-af34-f586cbe8944d)
 
 ```
-Авторское право на использование исходного кода остается только за [eas1Iy](https://github.com/eas1Iy).
+Авторское право на использование исходного кода остается только за eas1Iy.
 ```
 ### BlankSoftware
-[Discord ](https://discord.gg/xt2GGzfFY7)| [Github ](https://github.com/eas1Iy)| [Site](https://blanksoftware.ru/) | [Telegram](https://t.me/blanksoftware)
+[Discord ](https://discord.gg/xt2GGzfFY7)| [Github](https://github.com/eas1Iy)| [Site](https://blanksoftware.ru/) | [Telegram](https://t.me/blanksoftware)
