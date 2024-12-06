@@ -26,11 +26,14 @@
 ```
 
 ### Скриншоты | Images
-![image](https://github.com/user-attachments/assets/d446f448-181e-4b64-8072-f6f7d4aee6e3)
-![image](https://github.com/user-attachments/assets/19a28f05-30e6-4fbf-9998-714a1d6410b8)
-![image](https://github.com/user-attachments/assets/1e42ffd8-ebd0-464b-85fb-eff294379bf9)
-![image](https://github.com/user-attachments/assets/f5a0d563-42cf-4f4e-8be5-3e8ddf5051dd)
-![image](https://github.com/user-attachments/assets/3400a059-0b4c-4639-af34-f586cbe8944d)
+![image](https://github.com/user-attachments/assets/e76eb2ac-4bee-42cb-b773-69844c786790)
+![image](https://github.com/user-attachments/assets/767c9bff-ef17-435f-90d2-5b3dbb09438c)
+![image](https://github.com/user-attachments/assets/dcec8cf9-2183-429c-ac14-b0ed35560083)
+![image](https://github.com/user-attachments/assets/a1bdee72-bda2-4a58-bc7b-b3512ccaa191)
+![image](https://github.com/user-attachments/assets/5967f617-04a5-4ac5-99b5-a0ea57b0c1c9)
+![image](https://github.com/user-attachments/assets/cca44e8d-0ca7-4181-a6ca-9699f78f5e3f)
+![image](https://github.com/user-attachments/assets/466c1cb7-1812-4cc1-a56f-d0fe2be7a103)
+![image](https://github.com/user-attachments/assets/7585b2c0-20c5-49bc-966b-f0a0986d642c)
 
 ```
 Авторское право на использование исходного кода остается только за eas1Iy.
